@@ -47,6 +47,6 @@ Features will be added in iterations
 ## Results
 *Coming soon.*
 
-## Limitatoins
+## Limitations
 - **Small data:** about 95 ceremonies x 6 categories. Precursor awards also cover fewer years so the usable history is shorter than it looks.
 - **Changing electorate:** the Academy's makeup has changed over the years, so the predictability of the future could be affected by this
