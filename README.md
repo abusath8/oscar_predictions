@@ -9,7 +9,7 @@ Each year, a few thousand Academy members vote for the winners of the Oscars fro
 **Can those signals predict the winner, how confident should we be, and where do they fail?**
 
 ## Scope
-| Category | Strongest expected precursor|
+| Category | Strongest expected precursor |
 |---|---|
 | Best Picture | PGA, DGA, total nomination count |
 | Best Director| DGA |
@@ -21,6 +21,7 @@ Each year, a few thousand Academy members vote for the winners of the Oscars fro
 Original and Adapted Screenplay (WGA) may be added later.
 
 ## Features (planned)
+
 | Group | Examples |
 |---|---|
 | Oscar nominations | Total nominations; Director, Editing, and Screenplay nominations |
