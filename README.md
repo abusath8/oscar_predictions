@@ -37,6 +37,7 @@ Features will be added in iterations
 ## Data sources
 
 | Source | Used for | Access |
+|---|---|---|
 | Academy Awards database / public nominee dataset | Nominees and winners | CSV |
 | Wikipedia ceremony pages | Precursor award results | Scraped (MediaWiki API) |
 | IMDb non-commercial datasets | Film and person metadata | Downloadable files |
